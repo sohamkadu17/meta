@@ -1,0 +1,6 @@
+name: sre-alert-env
+version: 0.1.0
+description: Minimal Realistic SRE Simulation with 3 tasks (easy, medium, hard)
+type: environment
+tags: [sre, infrastructure, incident-response]
+entrypoint: src.env:SREEnvironment
